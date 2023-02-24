@@ -5,3 +5,5 @@ I have developed Railway Counter Ticket Reservation System in Java Language whic
 To setup Database copy + paste reservation Folder in C:\xampp\mysql\data 
 
 And open Railway Folder Using Apache NetBeans 12.5
+
+User Name: - Admin & Password 123
